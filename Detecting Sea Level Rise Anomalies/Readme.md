@@ -23,7 +23,7 @@
 ## 4. Train the LSTM Anomaly Detection Model
 - Run `train.py` to train the LSTM model for predicting anomalies at each stations .
 - The trained model weights will be stored under the `model.pt`.
-- You can download pretrained model from [SLA_MODEL](https://drive.google.com/file/d/1H_LWfFoVxUOJe6b11HZs09gMH7EwhNHp/view?usp=sharing)
+- You can download pretrained model from [SLA_MODEL](https://drive.google.com/file/d/1dId0dqDcmo9BkHVjC_YSW6Q-faiWbpWL/view?usp=sharing).
 
 ## 5. Infer Final Predictions
 - Run `model.py` to infer the final predictions of anomalies for the 12 stations from 2014 to 2023, notice that model weight path may need to be adjusted.
